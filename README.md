@@ -49,3 +49,6 @@ Given a sample dataset of tweets, the script outputs the top aspects (frequent t
 
 ```plaintext
 [('example', 25), ('tweets', 18), ('data', 15), ('analysis', 10), ('python', 8)]
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
